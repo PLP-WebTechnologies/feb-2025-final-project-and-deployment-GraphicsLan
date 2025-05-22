@@ -50,4 +50,6 @@ Search panel integration
 Admin panel Integration
 
 ---
+##Project deployed app
+# https://primetechfoundation.netlify.app/
 Version 1.0 💻
